@@ -18,46 +18,6 @@ An API to support the lookup of property tax balances on properties in the City 
 ```json
 [
   {
-    "OWNERNAME": "DUBOW ARLENE C",
-    "ADDRESS": "08930 KREWSTOWN RD     312",
-    "BRT_NUM": "888630050"
-  },
-  {
-    "OWNERNAME": "DUBOW MILTON",
-    "ADDRESS": "00816 N 19TH ST",
-    "BRT_NUM": "151053700"
-  },
-  {
-    "OWNERNAME": "DUBOW MILTON",
-    "ADDRESS": "00815 N UBER ST",
-    "BRT_NUM": "151060500"
-  },
-  {
-    "OWNERNAME": "DUBOW MILTON",
-    "ADDRESS": "00817 N UBER ST",
-    "BRT_NUM": "151060600"
-  },
-  {
-    "OWNERNAME": "DUBOW MILTON",
-    "ADDRESS": "00808 N 19TH ST",
-    "BRT_NUM": "884461950"
-  },
-  {
-    "OWNERNAME": "DUBOW MILTON",
-    "ADDRESS": "00814 N 19TH ST",
-    "BRT_NUM": "884461955"
-  },
-  {
-    "OWNERNAME": "DUBOW NORMAN",
-    "ADDRESS": "00432 ARLINGTON ST",
-    "BRT_NUM": "183193100"
-  },
-  {
-    "OWNERNAME": "DUBOW NORMAN",
-    "ADDRESS": "02448 N LAWRENCE ST",
-    "BRT_NUM": "191270700"
-  },
-  {
     "OWNERNAME": "DUBOW ROBERT",
     "ADDRESS": "08605 THOMAS MILL DR",
     "BRT_NUM": "214116406"
@@ -66,11 +26,6 @@ An API to support the lookup of property tax balances on properties in the City 
     "OWNERNAME": "DUBOWSKI MARIA",
     "ADDRESS": "08391 LANGDON ST",
     "BRT_NUM": "562338400"
-  },
-  {
-    "OWNERNAME": "DUBOWSKI MILEC",
-    "ADDRESS": "04100 KNORR ST       E",
-    "BRT_NUM": "552155200"
   },
   {
     "OWNERNAME": "DUBOWSKI VICTOR",
@@ -116,160 +71,7 @@ An API to support the lookup of property tax balances on properties in the City 
     "INTEREST": 0,
     "PENALTY": 0
   },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231359,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2012",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231358,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2011",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231357,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2010",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231356,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2009",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231355,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2008",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231354,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2007",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231353,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2006",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231352,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2005",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231351,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2004",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231350,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2003",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231349,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2002",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
+  ...
   {
     "STATUS": "",
     "LIEN": "",
@@ -300,165 +102,11 @@ An API to support the lookup of property tax balances on properties in the City 
     "LIEN": "",
     "TOTAL": 0,
     "OTHER": 0,
-    "ID": 2231348,
+    "ID": 2231361,
     "BRT_NUM": "214116406",
     "ADDRESS": "08605 THOMAS MILL DR",
     "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2001",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231349,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2002",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231350,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2003",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231351,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2004",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231352,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2005",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231353,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2006",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231354,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2007",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231355,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2008",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231356,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2009",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231357,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2010",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231358,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2011",
-    "PRINCIPAL": 0,
-    "INTEREST": 0,
-    "PENALTY": 0
-  },
-  {
-    "STATUS": "",
-    "LIEN": "",
-    "TOTAL": 0,
-    "OTHER": 0,
-    "ID": 2231359,
-    "BRT_NUM": "214116406",
-    "ADDRESS": "08605 THOMAS MILL DR",
-    "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2012",
+    "TAXYEAR": "2014",
     "PRINCIPAL": 0,
     "INTEREST": 0,
     "PENALTY": 0
@@ -477,16 +125,17 @@ An API to support the lookup of property tax balances on properties in the City 
     "INTEREST": 0,
     "PENALTY": 0
   },
+  ...
   {
     "STATUS": "",
     "LIEN": "",
     "TOTAL": 0,
     "OTHER": 0,
-    "ID": 2231361,
+    "ID": 2231348,
     "BRT_NUM": "214116406",
     "ADDRESS": "08605 THOMAS MILL DR",
     "OWNERNAME": "DUBOW ROBERT",
-    "TAXYEAR": "2014",
+    "TAXYEAR": "2001",
     "PRINCIPAL": 0,
     "INTEREST": 0,
     "PENALTY": 0

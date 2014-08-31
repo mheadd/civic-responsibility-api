@@ -38,7 +38,7 @@ app.get('/number/:brtnumber', function(req, res){
 		var sql ='SELECT BRT_NUM, OWNERNAME, SUM(TOTAL) AS "TOTAL AMOUNT DUE", ADDRESS FROM dbo_REVENUESCAN WHERE BRT_NUM = ' + req.params.brtnumber;
 	}
 	else {
-		var sql ='SELECT * FROM dbo_REVENUESCAN WHERE BRT_NUM = ' + req.params.brtnumber;
+		var sql ='SELECT * FROM dbo_REVENUESCAN WHERE BRT_NUM = ' + req.params.brtnumber + ' ORDER BY TAXYEAR DESC';
 	}
 	sendResponse(res, sql);
 });
