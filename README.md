@@ -5,13 +5,14 @@ An API to support the lookup of property tax balances on properties in the City 
 ## Usage
 
 * Clone this repo.
-* Run <code>npm install</code> to install required module.
+* Run <code>npm install</code> to install required modules.
 * Get the 'Full OPA and Revenue Database Dump' Sqlite file from [Philadelinquency](http://www.philadelinquency.com/). Place in the <code>/data</code> diretory.
 * May want to add an index on the database to optimize one of the queries (e.g., <code>CREATE INDEX owner ON dbo_REVENUESCAN ('OWNERNAME');</code>).
 
 ## API
 
 * Path: /name/{owner name}
+* Example: /name/dubow
 * Response:
 
 ```json
@@ -82,6 +83,7 @@ An API to support the lookup of property tax balances on properties in the City 
 ```
 
 * Path: /address/{property address}
+* Example: /address/08605%20THOMAS%20MILL%20DR
 * Response:
 
 ```json
@@ -288,6 +290,7 @@ An API to support the lookup of property tax balances on properties in the City 
 ```
 
 * Path: /number/{brt number}
+* Example: /number/214116406
 * Response:
 
 ```json
@@ -493,6 +496,7 @@ An API to support the lookup of property tax balances on properties in the City 
 ```
 
 * Path: /number/{brt number}?total=true
+* Example: /number/214116406?total=true
 * Response:
 
 ```json
