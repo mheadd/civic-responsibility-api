@@ -35,7 +35,7 @@ app.get('/address/:address', function(req, res){
 // Route for lookup by BRT number.
 app.get('/number/:brtnumber', function(req, res){
 	if(req.query.total) {
-		var sql ='SELECT BRT_NUM, OWNERNAME, SUM(TOTAL) AS "TOTAL AMOUNT DUE", ADDRESS FROM dbo_REVENUESCAN WHERE BRT_NUM = ' + req.params.brtnumber;
+		var sql ='SELECT BRT_NUM, OWNERNAME, ROUND(SUM(TOTAL),2) AS "TOTAL AMOUNT DUE", ADDRESS FROM dbo_REVENUESCAN WHERE BRT_NUM = ' + req.params.brtnumber;
 	}
 	else {
 		var sql ='SELECT * FROM dbo_REVENUESCAN WHERE BRT_NUM = ' + req.params.brtnumber + ' ORDER BY TAXYEAR DESC';

@@ -7,6 +7,6 @@
     "sqlite3": "latest",
     "express": "latest"
   },
-  "author": "Mark Headd <mheadd@accela.com> (http://civic.io/)",
+  "author": "Mark Headd <mheadd@gmail.com> (http://civic.io/)",
   "license": "BSD"
 }
