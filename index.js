@@ -20,6 +20,10 @@ function formatAddress(address) {
 	return address;
 }
 
+app.get('/', function(req, res) {
+	res.json({'Civic Responsibility API':'V1'})
+});
+
 // Route for lookup by owner name.
 app.get('/name/:ownername', function(req, res){
 	var sql = 'SELECT DISTINCT(BRT_NUM), ADDRESS, OWNERNAME FROM dbo_REVENUESCAN WHERE OWNERNAME LIKE "' + req.params.ownername.toUpperCase() + '%" ORDER BY OWNERNAME'
